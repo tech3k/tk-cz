@@ -1,0 +1,12 @@
+{
+  "name": "tk-cz",
+  "version": "1.0.1",
+  "bin": "index.js",
+  "repository": "https://github.com/tech3k/tk-cz.git",
+  "author": "Simon Skinner <vultuk28@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
