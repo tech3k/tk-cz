@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/tech3k/tk-cz/compare/v1.0.0...v1.1.0) (2022-02-26)
+
+
+### feat
+
+* **test:** testing ([c3a3cc0](https://github.com/tech3k/tk-cz/commit/c3a3cc023a24fad1d3ed259728f535259c6c7487))
+
 # 1.0.0 (2022-02-26)
 
 
